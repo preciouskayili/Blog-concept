@@ -1,0 +1,37 @@
+[
+    {
+        "title":"New blog",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quo repellat voluptatum magni at sed alias ut perferendis tempora qui earum nulla odit deleniti. Asperiores omnis nulla dolor quidem eveniet!",
+        "author": "Daniel"
+    },
+    {
+        "title":"Pepsi",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quo repellat voluptatum magni at sed alias ut perferendis tempora qui earum nulla odit deleniti. Asperiores omnis nulla dolor quidem eveniet!",
+        "author": "Angel"
+    },
+    {
+        "title":"Coca cola",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quo repellat voluptatum magni at sed alias ut perferendis tempora qui earum nulla odit deleniti. Asperiores omnis nulla dolor quidem eveniet!",
+        "author": "Precious"
+    },
+    {
+        "title":"Protest erupts",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quo repellat voluptatum magni at sed alias ut perferendis tempora qui earum nulla odit deleniti. Asperiores omnis nulla dolor quidem eveniet!",
+        "author": "Mario"
+    },
+    {
+        "title":"Killings start",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quo repellat voluptatum magni at sed alias ut perferendis tempora qui earum nulla odit deleniti. Asperiores omnis nulla dolor quidem eveniet!",
+        "author": "shaun"
+    },
+    {
+        "title":"Location erupts",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quo repellat voluptatum magni at sed alias ut perferendis tempora qui earum nulla odit deleniti. Asperiores omnis nulla dolor quidem eveniet!",
+        "author": "Mario"
+    },
+    {
+        "title":"play mariokart",
+        "text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, quo repellat voluptatum magni at sed alias ut perferendis tempora qui earum nulla odit deleniti. Asperiores omnis nulla dolor quidem eveniet!",
+        "author": "Favour"
+    }
+]
